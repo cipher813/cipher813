@@ -1,33 +1,20 @@
 ### Brian McMahon
 
-Building **[Nous Ergon](https://nousergon.ai)** — a harness for running rigorous AI/ML experiments in finance.
+Building **[Nous Ergon](https://nousergon.ai)** — *intelligence at work*: AI systems for finance, plus open-source agent and developer tooling.
 
-It runs experiments through a full production pipeline — multi-agent research, ML prediction, and risk-gated execution — and measures the results.
+**Products**
 
-**Experiments it can run**
-- **Agent architectures** — research topologies, orchestration and judging strategies
-- **Prediction models** — ensemble configurations, feature recipes, calibration
-- **Execution & risk policies** — position sizing, entry/exit triggers, drawdown response
-- **Evaluation methodology** — judge calibration, statistical promotion gates
+| Product | What it is |
+|---|---|
+| **[Crucible](https://github.com/cipher813/alpha-engine-docs)** | A harness for running rigorous AI/ML experiments in finance — multi-agent research, ML prediction, risk-gated execution, measured end-to-end |
+| **[Metron](https://github.com/cipher813/metron)** | Portfolio analytics — multi-tenant, read-only; no AI, no ads, no advice |
+
+**Open source**
+
+| Project | What it is |
+|---|---|
+| **[mnemon](https://github.com/cipher813/mnemon)** | Self-hosted, cross-device long-term memory for AI agents via MCP |
+| **[morning-signal](https://github.com/cipher813/morning-signal)** | Self-hostable daily briefing podcast — Claude writes it, TTS voices it, publishes an RSS feed |
+| **[flow-doctor](https://github.com/cipher813/flow-doctor)** | Error monitoring for Python pipelines — capture, dedupe, LLM root-cause, auto-fix PRs |
 
 **[nousergon.ai](https://nousergon.ai)**&nbsp; ·&nbsp; **[Live dashboard](https://live.nousergon.ai)**&nbsp; ·&nbsp; **[Blog](https://nousergon.ai/blog)**
-
-#### Nous Ergon
-
-| Repo | What it is |
-|---|---|
-| [alpha-engine-docs](https://github.com/cipher813/alpha-engine-docs) | System overview & architecture — **start here** |
-| [alpha-engine-evaluator](https://github.com/cipher813/alpha-engine-evaluator) | Measurement & evaluation layer — grades every module's output; a weekly agent proposes refinements |
-| [alpha-engine-research](https://github.com/cipher813/alpha-engine-research) | Multi-agent investment-research pipeline on LangGraph |
-| [alpha-engine-predictor](https://github.com/cipher813/alpha-engine-predictor) | Stacked meta-ensemble predicting 21-day market-relative returns |
-| [alpha-engine-backtester](https://github.com/cipher813/alpha-engine-backtester) | Weekly evaluator + parameter optimizer |
-| [alpha-engine-lib](https://github.com/cipher813/alpha-engine-lib) | Shared substrate — decision capture, freshness gates, cost telemetry |
-
-#### Other open source
-
-| Repo | What it is |
-|---|---|
-| [metron](https://github.com/cipher813/metron) | Portfolio analytics — multi-tenant, read-only; no AI, no ads, no advice |
-| [mnemon](https://github.com/cipher813/mnemon) | Self-hosted, cross-device long-term memory for AI agents via MCP — hybrid semantic + keyword search, your keys |
-| [morning-signal](https://github.com/cipher813/morning-signal) | Self-hostable daily briefing podcast — Claude writes it, TTS voices it, publishes an RSS feed |
-| [flow-doctor](https://github.com/cipher813/flow-doctor) | Error monitoring for Python pipelines — capture, dedupe, LLM root-cause, route alerts, auto-fix PRs |
