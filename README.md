@@ -27,8 +27,7 @@ It runs experiments through a full production pipeline — multi-agent research,
 
 | Repo | What it is |
 |---|---|
+| [metron](https://github.com/cipher813/metron) | Portfolio analytics — multi-tenant, read-only; no AI, no ads, no advice |
 | [mnemon](https://github.com/cipher813/mnemon) | Self-hosted, cross-device long-term memory for AI agents via MCP — hybrid semantic + keyword search, your keys |
 | [morning-signal](https://github.com/cipher813/morning-signal) | Self-hostable daily briefing podcast — Claude writes it, TTS voices it, publishes an RSS feed |
 | [flow-doctor](https://github.com/cipher813/flow-doctor) | Error monitoring for Python pipelines — capture, dedupe, LLM root-cause, route alerts, auto-fix PRs |
-
-<sub>Nous Ergon: architecture and approach are public; the tuned weights, prompts, and thresholds are private.</sub>
