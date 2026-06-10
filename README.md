@@ -6,7 +6,7 @@ Building **[Nous Ergon](https://nousergon.ai)**, a suite of agentic tools, inclu
 
 **Nous Ergon's flagship.** A harness for running rigorous AI/ML experiments in finance — multi-agent research, ML prediction, and risk-gated execution, run as measured experiments and graded end-to-end by an evaluation layer.
 
-**[Overview](https://github.com/cipher813/alpha-engine-docs)**&nbsp; ·&nbsp; **[Live dashboard](https://live.nousergon.ai)**&nbsp; ·&nbsp; **[nousergon.ai](https://nousergon.ai)**
+**[nousergon.ai](https://nousergon.ai)**&nbsp; ·&nbsp; **[Live dashboard](https://live.nousergon.ai)**&nbsp; ·&nbsp; **[System Readme](https://github.com/cipher813/alpha-engine-docs)**
 
 ### Also under Nous Ergon
 
